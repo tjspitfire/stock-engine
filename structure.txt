@@ -1,0 +1,2 @@
+stocks-eng\bin
+- will be the main sync folder between the two instances (on both instances)
